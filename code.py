@@ -8,5 +8,5 @@
 #     print sys.argv[1]
 #     print 'not correct'
 #     os.system('exit 1')
-
-print "rakesh"
+def func():
+    print "rakesh"
