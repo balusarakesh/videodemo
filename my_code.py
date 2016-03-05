@@ -1,1 +1,1 @@
-print "protek"
+print "class"
